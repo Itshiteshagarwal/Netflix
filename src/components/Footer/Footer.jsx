@@ -27,7 +27,7 @@ const Footer = () => {
       <li>Cookie Preference</li>
       <li>Corporate Information</li>
       <li>Contact us</li></ul>
-      <p className='copyright'>@1997-2023 Netflix, inc.</p>
+      <p className='copyright'>@Hitesh Agarwal, All rights reserved 2024</p>
     </div>
   )
 }
